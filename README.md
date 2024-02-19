@@ -2,17 +2,17 @@ In this section, you can review my first Assignment in the 'Fundamentals of Comp
 
 Question types are: 
 
-indexOf
-countOccurences
-max
-min
-diff
-isAscending
-isDescending
-average
-sorted
-median
-mostCommonItem
-longestAscendingSequenceLength
-longestAscendingSequenceStart
+indexOf,
+countOccurences,
+max,
+min,
+diff,
+isAscending,
+isDescending,
+average,
+sorted,
+median,
+mostCommonItem,
+longestAscendingSequenceLength,
+longestAscendingSequenceStart,
 longestAscendingSequence
