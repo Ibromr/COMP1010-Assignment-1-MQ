@@ -15,4 +15,4 @@ median,
 mostCommonItem,
 longestAscendingSequenceLength,
 longestAscendingSequenceStart,
-longestAscendingSequence
+longestAscendingSequence.
